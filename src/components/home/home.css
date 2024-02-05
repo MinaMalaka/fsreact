@@ -1,0 +1,15 @@
+#home img {
+    width: 15%;
+}
+#home .heading .rule {
+    width: 6%;
+    border: 3px solid white;
+    margin-bottom: 5px;
+
+}
+#home {
+    color: #fff;
+    background-color: #1abc9c;
+    text-align: center;
+    padding-block: 50px;
+}

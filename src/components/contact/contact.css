@@ -1,0 +1,14 @@
+label {
+    position: relative;
+    top: 35px;
+    z-index: -1;
+    transition: all .5s;
+    color: #1abc9c;
+    font-weight: bold;
+
+}
+.btn{
+    background-color: #1abc9c !important;
+    color: #fff !important;
+
+}

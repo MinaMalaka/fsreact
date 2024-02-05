@@ -1,0 +1,34 @@
+.head {
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+
+.anchor,
+.anchors {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+ul {
+    margin-right: 100px;
+    padding-top: 15px;
+}
+
+.active {
+    background-color: #1abc9c;
+    padding: 10px;
+    border-radius: 10px;
+}
+#nav-header {
+    height: 90px;
+}
+
+#nav-header nav {
+    z-index: 9999;
+    background-color: #2c3e50;
+    width: 100%;
+    padding: 20px;
+}
